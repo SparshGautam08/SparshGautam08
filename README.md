@@ -1,4 +1,4 @@
-## Hi, I'm Sparsh 👋
+## Hi, I'm Sparsh
 
 CS + Statistics student at the **University of Illinois Urbana-Champaign** (James Scholar). I'm interested in quantitative research, financial modeling, and the systems that make trading strategies run.
 
